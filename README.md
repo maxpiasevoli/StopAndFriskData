@@ -1,4 +1,4 @@
-#Pre-Processing Data for Analysis of the NYPD "Stop-and-Frisk" Policy#
+# Pre-Processing Data for Analysis of the NYPD "Stop-and-Frisk" Policy #
 
 The code in this repository handles all pre-processing of data needed to reproduce the analysis conducted by Gelman, Fagan and Kiss in [*An Analysis of the New York City Police Department's "Stop-and-Frisk" Policy in the Context of Claims of Racial Bias*](http://www.stat.columbia.edu/~gelman/research/published/frisk9.pdf). This data can additionally be used to produce new analyses as well. All data sources used here are public-domain.
 
